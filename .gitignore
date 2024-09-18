@@ -1,0 +1,8 @@
+# Fichiers résultant de la compilation avec l'extension .o
+*.o
+
+# Fichiers executables avec l'extension .exe
+*.exe
+
+# Fichiers temporaires avec l'extension .tmp
+*.tmp
